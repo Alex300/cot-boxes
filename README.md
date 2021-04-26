@@ -85,3 +85,9 @@ CSS, JS
 Дополнительных блоки
 
 Это глобальные теги, которые можно использовать в любом месте шаблона. Чтобы сделать пометку для блока, нужно добавить ее по порядку, каждый через запятую. После сохранения пометка появится в указанном месте.
+_____
+# <strong>Помощь в установке, консультации, доработки шаблонов для сборки биржи услуг на Cotonti Siena заказать можно по контактам:</strong>
+- Email: webitproff@gmail.com
+- <a href="https://t.me/webitproff" target="_blank"  title="написать в TELEGRAM"><strong>написать в TELEGRAM</strong></a> @webitproff
+- <a href="https://abuyfile.com/market/Cotonti/gotovye-sborki-na-cotonti" target="_blank" title="маркетплейс, фриланс-биржа, биржа услуг, готовое решение, демонстрация, купить"><strong>Готовые решения сайтов</strong></a>
+_____
