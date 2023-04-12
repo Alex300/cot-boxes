@@ -1,4 +1,7 @@
 # Boxes plugin for Cotonti Siena
+
+Original plugin by: Roffun (https://github.com/Roffun)
+
 ## HTML-блоки в шаблоне сайта редактируем из Панели Управления
 
 "Boxes" — Плагин для <a href="https://www.cotonti.com/">CMF Cotonti</a>, который позволяет в нужном месте в шаблоне сайта выводить 
