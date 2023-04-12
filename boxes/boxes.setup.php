@@ -5,17 +5,17 @@ Code=boxes
 Name=Boxes
 Category=administration-management
 Description=Output in the block template, widgets, and other counters visits
-Version=2.2.2
-Date=08.12.2016
+Version=2.2.3
+Date=2023-04-12
 Author=Roffun
-Copyright=Copyright (c) Roffun, 2015 - 2019 | https://github.com/Roffun
+Copyright=Copyright (c) 2015 - 2019 Roffun (https://github.com/Roffun), 2021-2023 Cotonti Team
 Notes=BSD License
 SQL=
 Auth_guests=R
 Lock_guests=W12345A
 Auth_members=R
 Lock_members=W12345A
-Recommends_plugins=myads
+Recommends_plugins=
 [END_COT_EXT]
 
 [BEGIN_COT_EXT_CONFIG]
@@ -44,11 +44,7 @@ boxdesc=48:textarea::box1, box2, box3, box4, box5, box6, box7, box8:
 ==================== */
 
 /**
- * boxes plugin
- *
- * @author Roffun
- * @copyright Copyright (c) Roffun, 2015 - 2019 | https://github.com/Roffun
- * @license BSD License
- **/
+ * Boxes plugin
+ */
 
 defined('COT_CODE') or die('Wrong URL.');
