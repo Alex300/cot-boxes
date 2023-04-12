@@ -1,7 +1,7 @@
 # Boxes plugin for Cotonti Siena
 ## HTML-блоки в шаблоне сайта редактируем из Панели Управления
 
-"Boxes" — Плагин для CMF Cotonti, который позволяет в нужном месте в шаблоне сайта выводить 
+"Boxes" — Плагин для <a href="https://www.cotonti.com/">CMF Cotonti</a>, который позволяет в нужном месте в шаблоне сайта выводить 
 HTML-блоки, и редактировать их из Административной панели. 
 <a href="http://freelance-script.abuyfile.com/plugin-boxes/">Документация. Инструкция. Настройки.</a>
 
